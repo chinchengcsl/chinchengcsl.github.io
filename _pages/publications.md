@@ -10,12 +10,7 @@ My articles can also be found on [Google Scholar](https://scholar.google.com/cit
 
 **Preprint/Under Review**
 
-1.  **C.-C. Chan**, J. P. Haldar, "Constrained MRI using weighted
-    Hilbert spaces: Fast scan-specific reconstruction with transparent
-    assumptions", 2025. (Conference abstract under review).
-    \[[Link](https://chincheng.cc/assets/pdf/paper_weighted_hilbert_space.pdf)\]
-
-2.  **C.-C. Chan**, J. P. Haldar, "A new k-space model for non-Cartesian
+1.  **C.-C. Chan**, J. P. Haldar, "A new k-space model for non-Cartesian
     Fourier imaging", *arXiv:2505.05647*, 2025. (Under review).
     \[[Link](https://arxiv.org/html/2505.05647v1)\]
 
@@ -63,61 +58,69 @@ My articles can also be found on [Google Scholar](https://scholar.google.com/cit
 
 **Conference publications**
 
-1.  **C.-C. Chan**, J. P. Haldar, "A novel k-space model for
+1.  **C.-C. Chan**, J. P. Haldar, "Constrained MRI using weighted
+    Hilbert spaces: Fast scan-specific reconstruction with transparent
+    assumptions", *ISMRM Workshop on Data Samp. & Image Recon.*, 2026.
+    In Press. (Abstract)
+    \[[Link](https://chincheng.cc/assets/pdf/paper_weighted_hilbert_space.pdf)\]
+
+2.  **C.-C. Chan**, J. P. Haldar, "A novel k-space model for
     non-Cartesian reconstruction", in *Proc. Int. Soc. Magn. Reson.
-    Med.*, 2025, p. 1366. (**Magna Cum Laude Award**).
+    Med.*, 2025, p. 1366. (**Magna Cum Laude Award**). (Abstract)
     \[[Link](https://mr.usc.edu/documents/0188.pdf)\]
 
-2.  **C.-C. Chan**, D. Kara, D. Kwon, E. Roselli, C. Nguyen, J. P.
+3.  **C.-C. Chan**, D. Kara, D. Kwon, E. Roselli, C. Nguyen, J. P.
     Haldar, "ROVir enables substantially easier real-time imaging of
     small regions of interest", in *Proc. Int. Soc. Magn. Reson. Med.*,
-    2025, p. 2622. \[[Link](https://mr.usc.edu/documents/0187.pdf)\]
+    2025, p. 2622. (Abstract)
+    \[[Link](https://mr.usc.edu/documents/0187.pdf)\]
 
-3.  **C.-C. Chan**, J. P. Haldar, "Rethinking model-based non-Cartesian
+4.  **C.-C. Chan**, J. P. Haldar, "Rethinking model-based non-Cartesian
     Fourier imaging: A new k-space model", in *Proc. IEEE Int. Symp.
     Biomed. Imag.*, 2025.
     \[[Link](https://ieeexplore.ieee.org/document/10980712)\]
 
-4.  **C.-C. Chan**, C. Nguyen, J. P. Haldar, "Improved region-optimized
+5.  **C.-C. Chan**, C. Nguyen, J. P. Haldar, "Improved region-optimized
     virtual coils for Cartesian acquisition geometries", in *Proc. Int.
-    Soc. Magn. Reson. Med.*, 2024, p. 1905.
+    Soc. Magn. Reson. Med.*, 2024, p. 1905. (Abstract)
     \[[Link](https://mr.usc.edu/documents/0183.pdf)\]
 
-5.  **C.-C. Chan**, J. P. Haldar, "Measuring spatiotemporal resolution
+6.  **C.-C. Chan**, J. P. Haldar, "Measuring spatiotemporal resolution
     in real-time MRI", in *Proc. Int. Soc. Magn. Reson. Med.*,
-    2024, p. 1875. \[[Link](https://mr.usc.edu/documents/0184.pdf)\]
+    2024, p. 1875. (Abstract)
+    \[[Link](https://mr.usc.edu/documents/0184.pdf)\]
 
-6.  **C.-C. Chan**, J. Wang, T. Nadeem, J. P. Haldar, "On
+7.  **C.-C. Chan**, J. Wang, T. Nadeem, J. P. Haldar, "On
     reference-based image quality assessment in medical image
     reconstruction: Potential pitfalls and possible solutions", in
-    *Proc. Asilomar*, 2023, pp. 36--39. (Invited paper).
+    *Proc. Asilomar*, 2023, pp. 36--39. (Invited paper)
     \[[Link](https://ieeexplore.ieee.org/document/10476746)\]
 
-7.  R. Lobos, **C.-C. Chan**, J. P. Haldar, "New theory and faster
+8.  R. Lobos, **C.-C. Chan**, J. P. Haldar, "New theory and faster
     computations for subspace-based sensitivity map estimation", in
-    *Proc. Int. Soc. Magn. Reson. Med.*, 2023, p. 4625.
+    *Proc. Int. Soc. Magn. Reson. Med.*, 2023, p. 4625. (Abstract)
     \[[Link](https://mr.usc.edu/documents/0178.pdf)\]
 
-8.  **C.-C. Chan**, J. P. Haldar, "Local perturbation responses: A tool
+9.  **C.-C. Chan**, J. P. Haldar, "Local perturbation responses: A tool
     for understanding the characteristics of advanced nonlinear MR
     reconstruction algorithms", in *Proc. Int. Soc. Magn. Reson. Med.*,
-    2020, p. 684. (**Power pitch presentation**).
+    2020, p. 684. (Abstract)
     \[[Link](https://mr.usc.edu/documents/0158.pdf)\]
 
-9.  **C.-C. Chan**, H. H. Chen, "Autofocus by deep reinforcement
+10. **C.-C. Chan**, H. H. Chen, "Autofocus by deep reinforcement
     learning", in *Proc. Electron. Imaging*, 2019, pp. 577-581.
     \[[Link](https://library.imaging.org/admin/apis/public/api/ist/website/downloadArticle/ei/31/4/art00003)\]
 
-10. **C.-C. Chan**, H. H. Chen, "Improving the reliability of phase
+11. **C.-C. Chan**, H. H. Chen, "Improving the reliability of phase
     detection autofocus", in *Proc. Electron. Imaging*, 2018, pp. 1-5.
     \[[Link](https://www.bing.com/ck/a?!&&p=8d98464ebb09a87743ae1c57dd2201b25b5bb64eafa273b8d01a581337e14374JmltdHM9MTc1ODkzMTIwMA&ptn=3&ver=2&hsh=4&fclid=02eaec44-b6a3-64d8-1628-fa48b73165e5&psq=Improving+the+Reliability+of+Phase+Detection+Autofocus&u=a1aHR0cHM6Ly9saWJyYXJ5LmltYWdpbmcub3JnL2FkbWluL2FwaXMvcHVibGljL2FwaS9pc3Qvd2Vic2l0ZS9kb3dubG9hZEFydGljbGUvZWkvMzAvNS9hcnQwMDAwNg)\]
 
-11. **C.-C. Chan**, S.-K. Huang, H. H. Chen, "Enhancement of phase
+12. **C.-C. Chan**, S.-K. Huang, H. H. Chen, "Enhancement of phase
     detection for autofocus", in *Proc. IEEE Int. Conf. Image Process.*,
     2017, pp. 41-45.
     \[[Link](https://ieeexplore.ieee.org/document/8296239/)\]
 
-12. P.-H. Lee, **C.-C. Chan**, S.-L. Huang, A. Chen, H. H. Chen, "Blood
+13. P.-H. Lee, **C.-C. Chan**, S.-L. Huang, A. Chen, H. H. Chen, "Blood
     vessel extraction from OCT data by short-time RPCA", in *Proc. IEEE
     Int. Conf. Image Process.*, 2016, pp. 394-398.
     \[[Link](https://ieeexplore.ieee.org/document/7532386)\]
